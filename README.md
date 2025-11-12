@@ -14,13 +14,13 @@
 ## 安裝方式
 
 ```bash
-pip install git+https://github.com/<your-org-or-user>/db_auto_migrate.git
+pip install git+https://github.com/gwolf0719/db_auto_migrate.git
 ```
 
 或在開發中使用 Poetry：
 
 ```bash
-poetry add git+https://github.com/<your-org-or-user>/db_auto_migrate.git
+poetry add git+https://github.com/gwolf0719/db_auto_migrate.git
 ```
 
 ## 基本使用
