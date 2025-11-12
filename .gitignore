@@ -1,0 +1,8 @@
+# 說明：列出不需納入版本控制的檔案與資料夾，例如虛擬環境與編譯產物。
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+build/
+
